@@ -3,8 +3,7 @@
   margin: 0;
   padding: 0;
 }
-.container {
-  width: 88rem;
+.container {  
   background-image: linear-gradient(to right, #4edfe175 0%, #b808bbb3 100%);
 }
 header {
